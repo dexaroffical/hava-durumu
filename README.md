@@ -1,9 +1,11 @@
+# BU ALTYAPI BANA AİT DEĞİLDİR SAHİBİNİN BİLGİSİ AŞAĞIDADIR; BEN HERKES KULLANABİLSİN DİYE PAYLAŞTIM.
+
 |Ad | Soyad |
 |--|--|
 |Sıla | Aleyna |
 
 # hava-durumu-uygulaması
-## uygulamadan görseller 👇
+## Uygulamadan Görseller 👇
 ![](https://media.discordapp.net/attachments/960115444998619186/960235067257520158/Ekran_Goruntusu_130.png?width=887&height=499)
 <br/>
 ![](https://media.discordapp.net/attachments/960115444998619186/960235093866197003/Ekran_Goruntusu_131.png?width=887&height=499)
